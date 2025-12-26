@@ -1,6 +1,8 @@
 ---
 library_name: transformers
-tags: []
+pipeline_tag: image-classification
+tags:
+- image-classification
 ---
 
 # Model Card for Model ID

@@ -2,7 +2,6 @@
 
 A lightweight ML project that classifies waste images and predicts whether the item is **recyclable or non‑recyclable** — powered by a fine‑tuned **Vision Transformer (ViT)**.
 
-> Upload an image 👉 Model analyzes 👉 Get **material type + recyclability**
 
 ---
 
